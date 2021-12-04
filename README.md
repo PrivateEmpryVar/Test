@@ -20,7 +20,7 @@
       "type": "commit",
       "parents": [],
       "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 09:16:01 GMT+0200 (Восточная Европа, стандартное время)",
+      "createTime": "Sat Dec 04 2021 09:21:09 GMT+0200 (Восточная Европа, стандартное время)",
       "commitMessage": "Быстрый коммит. А надо!",
       "id": "C0",
       "rootCommit": true
@@ -31,7 +31,7 @@
         "C0"
       ],
       "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 09:16:01 GMT+0200 (Восточная Европа, стандартное время)",
+      "createTime": "Sat Dec 04 2021 09:21:09 GMT+0200 (Восточная Европа, стандартное время)",
       "commitMessage": "Быстрый коммит. А надо!",
       "id": "C1"
     },
@@ -41,7 +41,7 @@
         "C1"
       ],
       "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 09:16:01 GMT+0200 (Восточная Европа, стандартное время)",
+      "createTime": "Sat Dec 04 2021 09:21:09 GMT+0200 (Восточная Европа, стандартное время)",
       "commitMessage": "Быстрый коммит. А надо!",
       "id": "C2"
     },
@@ -51,7 +51,7 @@
         "C1"
       ],
       "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 09:16:01 GMT+0200 (Восточная Европа, стандартное время)",
+      "createTime": "Sat Dec 04 2021 09:21:09 GMT+0200 (Восточная Европа, стандартное время)",
       "commitMessage": "Быстрый коммит. А надо!",
       "id": "C3"
     },
@@ -61,14 +61,14 @@
         "C3"
       ],
       "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 09:16:01 GMT+0200 (Восточная Европа, стандартное время)",
+      "createTime": "Sat Dec 04 2021 09:21:09 GMT+0200 (Восточная Европа, стандартное время)",
       "commitMessage": "Быстрый коммит. А надо!",
       "id": "C4"
     }
   },
   "tags": {},
   "HEAD": {
-    "target": "C4",
+    "target": "C3",
     "id": "HEAD",
     "type": "general ref"
   }
