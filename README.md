@@ -3,14 +3,14 @@
     "main": {
       "remoteTrackingBranchID": null,
       "remote": false,
-      "target": "C4",
+      "target": "C3",
       "id": "main",
       "type": "branch"
     },
     "bugFix": {
       "remoteTrackingBranchID": null,
       "remote": false,
-      "target": "C2",
+      "target": "C2'",
       "id": "bugFix",
       "type": "branch"
     }
@@ -20,8 +20,8 @@
       "type": "commit",
       "parents": [],
       "author": "Peter Cottle",
-      "createTime": "Mon Nov 05 2012 00:56:47 GMT-0800 (PST)",
-      "commitMessage": "Quick Commit. Go Bears!",
+      "createTime": "Sat Dec 04 2021 09:06:26 GMT+0200 (Восточная Европа, стандартное время)",
+      "commitMessage": "Быстрый коммит. А надо!",
       "id": "C0",
       "rootCommit": true
     },
@@ -31,8 +31,8 @@
         "C0"
       ],
       "author": "Peter Cottle",
-      "createTime": "Mon Nov 05 2012 00:56:47 GMT-0800 (PST)",
-      "commitMessage": "Quick Commit. Go Bears!",
+      "createTime": "Sat Dec 04 2021 09:06:26 GMT+0200 (Восточная Европа, стандартное время)",
+      "commitMessage": "Быстрый коммит. А надо!",
       "id": "C1"
     },
     "C2": {
@@ -41,7 +41,7 @@
         "C1"
       ],
       "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 09:03:36 GMT+0200 (Восточная Европа, стандартное время)",
+      "createTime": "Sat Dec 04 2021 09:09:56 GMT+0200 (Восточная Европа, стандартное время)",
       "commitMessage": "Быстрый коммит. А надо!",
       "id": "C2"
     },
@@ -51,26 +51,25 @@
         "C1"
       ],
       "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 09:03:56 GMT+0200 (Восточная Европа, стандартное время)",
+      "createTime": "Sat Dec 04 2021 09:10:50 GMT+0200 (Восточная Европа, стандартное время)",
       "commitMessage": "Быстрый коммит. А надо!",
       "id": "C3"
     },
-    "C4": {
+    "C2'": {
       "type": "commit",
       "parents": [
-        "C3",
-        "C2"
+        "C3"
       ],
       "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 09:04:12 GMT+0200 (Восточная Европа, стандартное время)",
-      "commitMessage": "Слияние branch \"bugFix\" в branch \"main\"",
-      "id": "C4"
+      "createTime": "Sat Dec 04 2021 09:11:21 GMT+0200 (Восточная Европа, стандартное время)",
+      "commitMessage": "Быстрый коммит. А надо!",
+      "id": "C2'"
     }
   },
   "tags": {},
   "HEAD": {
     "id": "HEAD",
-    "target": "main",
+    "target": "bugFix",
     "type": "general ref"
   }
 }
