@@ -3,9 +3,8 @@
     "main": {
       "remoteTrackingBranchID": "o/main",
       "remote": false,
-      "target": "C5",
+      "target": "C3",
       "id": "main",
-      "localBranchesThatTrackThis": null,
       "type": "branch"
     },
     "o/main": {
@@ -21,7 +20,7 @@
       "type": "commit",
       "parents": [],
       "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 11:15:20 GMT+0200 (Восточная Европа, стандартное время)",
+      "createTime": "Sat Dec 04 2021 11:18:45 GMT+0200 (Восточная Европа, стандартное время)",
       "commitMessage": "Быстрый коммит. А надо!",
       "id": "C0",
       "rootCommit": true
@@ -32,19 +31,9 @@
         "C0"
       ],
       "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 11:15:20 GMT+0200 (Восточная Европа, стандартное время)",
+      "createTime": "Sat Dec 04 2021 11:18:45 GMT+0200 (Восточная Европа, стандартное время)",
       "commitMessage": "Быстрый коммит. А надо!",
       "id": "C1"
-    },
-    "C4": {
-      "type": "commit",
-      "parents": [
-        "C1"
-      ],
-      "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 11:15:24 GMT+0200 (Восточная Европа, стандартное время)",
-      "commitMessage": "Быстрый коммит. А надо!",
-      "id": "C4"
     },
     "C2": {
       "type": "commit",
@@ -52,7 +41,7 @@
         "C1"
       ],
       "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 11:15:26 GMT+0200 (Восточная Европа, стандартное время)",
+      "createTime": "Sat Dec 04 2021 11:18:45 GMT+0200 (Восточная Европа, стандартное время)",
       "commitMessage": "Быстрый коммит. А надо!",
       "id": "C2"
     },
@@ -62,20 +51,9 @@
         "C2"
       ],
       "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 11:15:28 GMT+0200 (Восточная Европа, стандартное время)",
+      "createTime": "Sat Dec 04 2021 11:18:47 GMT+0200 (Восточная Европа, стандартное время)",
       "commitMessage": "Быстрый коммит. А надо!",
       "id": "C3"
-    },
-    "C5": {
-      "type": "commit",
-      "parents": [
-        "C4",
-        "C3"
-      ],
-      "author": "Peter Cottle",
-      "createTime": "Sat Dec 04 2021 11:15:32 GMT+0200 (Восточная Европа, стандартное время)",
-      "commitMessage": "Слияние branch \"o/main\" в branch \"main\"",
-      "id": "C5"
     }
   },
   "tags": {},
@@ -99,7 +77,7 @@
         "type": "commit",
         "parents": [],
         "author": "Peter Cottle",
-        "createTime": "Sat Dec 04 2021 11:15:21 GMT+0200 (Восточная Европа, стандартное время)",
+        "createTime": "Sat Dec 04 2021 11:18:45 GMT+0200 (Восточная Европа, стандартное время)",
         "commitMessage": "Быстрый коммит. А надо!",
         "id": "C0",
         "rootCommit": true
@@ -110,7 +88,7 @@
           "C0"
         ],
         "author": "Peter Cottle",
-        "createTime": "Sat Dec 04 2021 11:15:21 GMT+0200 (Восточная Европа, стандартное время)",
+        "createTime": "Sat Dec 04 2021 11:18:45 GMT+0200 (Восточная Европа, стандартное время)",
         "commitMessage": "Быстрый коммит. А надо!",
         "id": "C1"
       },
@@ -120,7 +98,7 @@
           "C1"
         ],
         "author": "Peter Cottle",
-        "createTime": "Sat Dec 04 2021 11:15:22 GMT+0200 (Восточная Европа, стандартное время)",
+        "createTime": "Sat Dec 04 2021 11:18:49 GMT+0200 (Восточная Европа, стандартное время)",
         "commitMessage": "Быстрый коммит. А надо!",
         "id": "C2"
       },
@@ -130,7 +108,7 @@
           "C2"
         ],
         "author": "Peter Cottle",
-        "createTime": "Sat Dec 04 2021 11:15:23 GMT+0200 (Восточная Европа, стандартное время)",
+        "createTime": "Sat Dec 04 2021 11:18:50 GMT+0200 (Восточная Европа, стандартное время)",
         "commitMessage": "Быстрый коммит. А надо!",
         "id": "C3"
       }
